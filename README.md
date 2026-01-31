@@ -1,3 +1,3 @@
-My Resume for Data Annotator / Data Science Domain
-My LinkedIn :- Aditya Mishra
+# My Resume for Data Annotator/ Data Science domain.
+My LinkdIn :-
 https://www.linkedin.com/in/aditya-mishra-a771201b6/
